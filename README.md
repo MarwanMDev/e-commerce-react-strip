@@ -29,7 +29,7 @@ React Ecommerce App that is fully Responsive with Stripe Payment
 
 ## Resources
 
-- \_[EdRoh]
+- [EdRoh]
 
 ---
 
